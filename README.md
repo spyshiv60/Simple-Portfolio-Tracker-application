@@ -42,4 +42,4 @@ The application is built using **React** for the frontend and **Java Spring Boot
 3. Install MySQL and create a database.
 
 ## Links
-- Deployed Application: [https://adorable-lamington-88afae.netlify.app/]
+- Deployed Application: [https://sb1auo1zlqk-tycs--5173--c8c182a3.local-credentialless.webcontainer.io/]
