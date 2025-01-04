@@ -32,6 +32,11 @@ The application is built using **React** for the frontend and **Java Spring Boot
 ### Real-Time Data:
 - Stock Price API: Alpha Vantage/Yahoo Finance/Finnhub
 
+## Assumptions or Limitations
+- The project assumes you have Node.js installed.
+- It works best in the Chrome browser.
+- The application is designed for desktop use and may not be fully responsive on mobile devices.
+
 ---
 
 ## Steps to Run the Project Locally
@@ -42,4 +47,6 @@ The application is built using **React** for the frontend and **Java Spring Boot
 3. Install MySQL and create a database.
 
 ## Links
-- Deployed Application: [https://sb1auo1zlqk-tycs--5173--c8c182a3.local-credentialless.webcontainer.io/]
+- Deployed Application: [https://elegant-torte-247bfa.netlify.app]
+-  API Documentation: [eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZoc3JnYWthZmRkb2lnYmJpY2dmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzU5NzIyOTEsImV4cCI6MjA1MTU0ODI5MX0.hqUYoVyUVnNxhH-O6n4w73bAOGZ-3aMXjtRokL1qMmg]
+  
