@@ -48,5 +48,5 @@ The application is built using **React** for the frontend and **Java Spring Boot
 
 ## Links
 - Deployed Application: [https://elegant-torte-247bfa.netlify.app]
--  API Documentation: [eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZoc3JnYWthZmRkb2lnYmJpY2dmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzU5NzIyOTEsImV4cCI6MjA1MTU0ODI5MX0.hqUYoVyUVnNxhH-O6n4w73bAOGZ-3aMXjtRokL1qMmg]
+-  API Documentation: [eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZoc3JnYWthZmRkb2lnYmJpY2dmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzU5NzIyOTEsImV4cCI6MjA1MTU0ODI5MX0.hqUYoVyUVnNxhH-O6n4w73bAOGZ-3aMXjtRokL1qMmg] 
   
